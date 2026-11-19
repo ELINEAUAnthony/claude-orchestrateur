@@ -15,10 +15,10 @@ Opus analyse, spécifie et découpe une demande de développement en tâches. Ch
 
 ## Installation
 
-Depuis un dépôt GitHub (après avoir poussé ce dossier) :
+Depuis GitHub :
 
 ```
-/plugin marketplace add <utilisateur>/claude-orchestrateur
+/plugin marketplace add ELINEAUAnthony/claude-orchestrateur
 /plugin install orchestrateur@orchestrateur
 ```
 
