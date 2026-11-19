@@ -1,0 +1,17 @@
+{
+  "name": "orchestrateur",
+  "owner": {
+    "name": "Anthony Elineau"
+  },
+  "metadata": {
+    "description": "Orchestrateur Opus → Haiku/Sonnet pour Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "orchestrateur",
+      "description": "Opus découpe en tâches, Haiku ou Sonnet les exécutent une à une, suivi dans .projet/.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "orchestrateur",
+  "version": "1.0.0",
+  "description": "Opus analyse, spécifie et découpe une demande en tâches ; chaque tâche est exécutée une à une par Haiku ou Sonnet (sous-session visible ou agent), avec suivi projet partagé dans .projet/ et RTK obligatoire.",
+  "author": {
+    "name": "Anthony Elineau"
+  },
+  "keywords": ["orchestration", "planification", "tickets", "sous-sessions", "rtk", "francais"]
+}
